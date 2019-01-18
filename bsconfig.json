@@ -1,0 +1,11 @@
+{
+  "name": "bs-analytics",
+  "bsc-flags": ["-bs-no-version-header", "-bs-super-errors"],
+  "refmt": 3,
+  "namespace": true,
+  "sources": [
+    {
+      "dir": "src"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bs-analytics",
+  "version": "0.1.0",
+  "description": "BuckleScript bindings for Analytics.js written in ReasonML",
+  "main": "src/Analytics.re",
+  "author": "Peter Piekarczyk <peter@draftbit.com",
+  "scripts": {
+    "build": "bsb -make-world",
+    "clean": "bsb -clean-world"
+  },
+  "keywords": ["BuckleScript", "ReasonML", "Analytics.js"],
+  "license": "MIT"
+}
